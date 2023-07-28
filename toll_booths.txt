@@ -1,0 +1,4 @@
+Booth1 car 110.00 truck 180.00 Bus 120.0 Jeep 130.00
+Booth2 car 90.00 truck 120.00 Bus 110.00 Jeep 90.00
+Booth3 car 70.00 truck 120.00 Bus 90.00  Jeep 80.00
+Booth4 car 60.00  truck 100.00 Bus 80.00 Jeep 90.00
